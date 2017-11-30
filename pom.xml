@@ -16,5 +16,6 @@
   </parent>
   <modules>
   	<module>olib-maker</module>
+  	<module>olib-threadpool</module>
   </modules>
 </project>
