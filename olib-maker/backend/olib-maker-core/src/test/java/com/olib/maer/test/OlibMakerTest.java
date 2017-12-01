@@ -26,6 +26,6 @@ public class OlibMakerTest {
 	}
 	
 	public static void main(String[] ar){
-		kiwiTemplateTest();
+		olibTemplateTest();
 	}
 }
